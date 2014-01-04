@@ -1,4 +1,4 @@
-window.SeboneJan2014 =
+window.Sebone =
   Models: {}
   Collections: {}
   Views: {}
