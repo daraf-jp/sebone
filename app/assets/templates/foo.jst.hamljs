@@ -1,2 +1,4 @@
 %h1 Template of FooView
 .btn.btn-default this is button
+
+%a.btn.btn-default{ href: '#hoge' } Go to hoge
