@@ -1,4 +1,4 @@
 %h1 Template of HogeView
 .btn.btn-default this is button
 
-%a.btn.btn-default{ href: '#foo' } Go to Foo
+%a.btn.btn-default{ href: '#foo/10' } Go to Foo
