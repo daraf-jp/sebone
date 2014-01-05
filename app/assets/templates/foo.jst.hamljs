@@ -2,3 +2,5 @@
 .btn.btn-default this is button
 
 %a.btn.btn-default{ href: '#hoge' } Go to hoge
+
+id is #{id}
