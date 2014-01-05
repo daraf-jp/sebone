@@ -2,7 +2,7 @@
 
 <script type="text/javascript">
 $(function(){
-  var view = new Sebone.Views.HogeView();
-  $('#app').html(view.render().el);
+  new Sebone.Routers.HogeRouter();
+  Backbone.history.start();
 });
 </script>
